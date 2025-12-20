@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Thirumala Reddy
 
-### Backend-Focused Full Stack Developer | Node.js | React | APIs | Security
+### Backend Developer (Node.js) | REST APIs | Authentication | React
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thirumal-231&label=Profile%20Views&color=blue&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/thirumal-231?label=Followers&style=flat)
@@ -10,49 +10,54 @@
 
 ## 🚀 About Me
 
-I’m a **backend-focused full stack developer** who loves building **secure, scalable, real-world applications**.  
+Backend-focused Full Stack Developer experienced in building **RESTful APIs**, **authentication systems**, and **secure role-based platforms** using **Node.js, Express.js, and React**.
+
 Currently working as an **Associate Developer at Novac Technology Solutions**, contributing to internal EdTech platforms, API integrations, and clean software architecture.
 
 🌐 **Portfolio:** https://trustudios.netlify.app/
 
 ---
 
+## 💼 Experience
+
+### 🏢 Novac Technology Solutions  
+**Associate Developer** | Aug 2024 – Present | Chennai, India
+
+- Designed and developed an **internal RBAC-based application** (Super Admin, Admin, User, Guest) to securely share credentials, demo videos, and product links across **10+ internal applications**.
+- Implemented **secure REST APIs** for authentication, authorization, data fetching, and error handling, reducing unauthorized access by **~40%**.
+- Streamlined **sales and pre-sales workflows** by centralizing demo resources, cutting manual coordination time by **~35%**.
+- Automated **user and guest onboarding** through Admin-managed access controls, reducing credential-sharing turnaround time from hours to minutes and boosting adoption by **~30%**.
+
+---
+
+## 🧩 Projects
+
+### 🌍 Natours – Tour Booking Platform  
+🔗 Live: https://natours-mern-v2.netlify.app/
+
+- Built and deployed a **full-stack tour booking platform** with a **React frontend** and **Node.js/Express backend**, delivering **20+ RESTful endpoints** with authentication, authorization, and RBAC.
+- Implemented **JWT-based authentication** with secure HTTP-only cookies and protected routes, reducing unauthorized access by **~40%**.
+- Developed scalable frontend architecture using **React and Redux Toolkit**, improving data consistency and reducing redundant API calls by **~30%**.
+- Integrated **Stripe payments** and **email workflows** (password reset, booking confirmations, notifications), improving transaction reliability by **~25%**.
+
+---
+
 ## 🧰 Tech Stack
 
-### 🖥 Backend
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### 🎨 Frontend (Strong Working Knowledge)
+### Frontend (Strong Working Knowledge)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
 
-### 🛠 Tools
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
----
-
-## 💼 Featured Projects
-
-### 🌍 Natours – Full Stack Tour Booking Platform
-🔹 React + Redux Toolkit frontend  
-🔹 Node.js & Express backend with **20+ REST APIs**  
-🔹 JWT authentication, RBAC, secure cookies  
-🔹 Stripe payments & email workflows  
-
-🔗 **Live:** https://natours-mern-v2.netlify.app/
-
----
-
-### 🔐 Internal RBAC Platform (EdTech)
-🔹 Role-based access (Super Admin, Admin, User, Guest)  
-🔹 Secure credential & demo sharing across **10+ apps**  
-🔹 Reduced unauthorized access by **~40%**  
-🔹 Improved sales workflow efficiency by **~35%**
 
 ---
 
@@ -73,11 +78,10 @@ Currently working as an **Associate Developer at Novac Technology Solutions**, c
 
 ---
 
-## 🧠 What I’m Focused On
-- Building **production-ready backend systems**
-- Writing **clean, secure, and scalable APIs**
-- Improving **frontend performance & state management**
-- Deepening knowledge in **databases, system design, and cloud**
+## 🎓 Education
+**Bachelor of Technology – Mechanical Engineering**  
+Rajiv Gandhi University of Knowledge Technologies  
+**CGPA:** 8.7 / 10 | Jul 2019 – May 2023
 
 ---
 
@@ -89,4 +93,4 @@ Currently working as an **Associate Developer at Novac Technology Solutions**, c
 
 ---
 
-⭐ *If you like my work, consider starring a repo — it helps a lot!*
+⭐ *If you like my work, consider starring a repository — it really helps!*
