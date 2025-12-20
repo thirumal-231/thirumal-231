@@ -44,27 +44,13 @@ Currently working as an **Associate Developer at Novac Technology Solutions**, c
 
 ## 🧰 Tech Stack
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+<div align="center">
 
+| **Backend** | **Frontend** | **Tools** |
+|------------|--------------|-----------|
+| <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/> | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <br/> <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/> <br/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/> |
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-### Frontend (Strong Working Knowledge)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+</div>
 
 ---
 
@@ -72,20 +58,22 @@ Currently working as an **Associate Developer at Novac Technology Solutions**, c
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thirumal-231&show_icons=true&theme=react&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=thirumal-231&show_icons=true&theme=react&hide_border=true" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thirumal-231&theme=react&hide_border=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thirumal-231&theme=react&hide_border=true" height="165"/>
 
 </div>
 
 ---
 
 ## 📈 Contribution Graph
+
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=thirumal-231&theme=react-dark)
 
 ---
 
 ## 🎓 Education
+
 **Bachelor of Technology – Mechanical Engineering**  
 Rajiv Gandhi University of Knowledge Technologies  
 **CGPA:** 8.7 / 10 | Jul 2019 – May 2023
