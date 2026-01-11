@@ -82,7 +82,7 @@ Rajiv Gandhi University of Knowledge Technologies
 
 ## 📫 Let’s Connect
 
-📧 Email: **thirumala.reddy.work@gmail.com**  
+📧 Email: **o170231thiru@gmail.com**  
 🔗 LinkedIn: https://www.linkedin.com/in/thirumala231/  
 🌐 Portfolio: https://trustudios.netlify.app/
 
