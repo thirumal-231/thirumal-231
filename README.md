@@ -33,7 +33,7 @@ Currently working as an **Associate Developer at Novac Technology Solutions**, c
 ## 🧩 Projects
 
 ### 🌍 Natours – Tour Booking Platform  
-🔗 Live: https://natours-mern-v2.netlify.app/
+🔗 Live: https://natours.trustudios.in/
 
 - Built and deployed a **full-stack tour booking platform** with a **React frontend** and **Node.js/Express backend**, delivering **20+ RESTful endpoints** with authentication, authorization, and RBAC.
 - Implemented **JWT-based authentication** with secure HTTP-only cookies and protected routes, reducing unauthorized access by **~40%**.
