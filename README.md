@@ -1,3 +1,5 @@
+<img width="2752" height="1536" alt="github banner" src="https://github.com/user-attachments/assets/a464e955-4ba9-4c0c-8043-5a75b88f2623" />
+
 # 👋 Hi, I’m Thirumala Reddy
 
 ### Backend Developer (Node.js) | REST APIs | Authentication | React
