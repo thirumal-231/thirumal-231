@@ -1,4 +1,4 @@
-<img width="2752" height="1536" alt="github banner" src="https://github.com/user-attachments/assets/a464e955-4ba9-4c0c-8043-5a75b88f2623" />
+![Insert profile image description here](https://res.cloudinary.com/dmvbudba3/image/upload/v1780766995/Full_Stack_Developer_Technical_Summary_ftfvqt.png)
 
 # 👋 Hi, I’m Thirumala Reddy
 
@@ -34,6 +34,17 @@ Currently working as an **Associate Developer at Novac Technology Solutions**, c
 
 ## 🧩 Projects
 
+### 🗒️ Tru Kanban – Real time Collaborative Kanban Board
+🔗 Demo: https://youtu.be/qEnW_jNVW-I?si=qgIj_J31RFcU2-hD
+
+- Designed and developed a full-stack kanban app with Node.js, Express, React
+- Setup drag and drop feature for the cards and lists with Dnd Kit.
+- Implemented optimistic updates with TanStack Query, eliminating redundant refetches on drag-and-drop.
+- Handled multiple query transactions with PostgreSQL with DrizzleORM
+- Built invite system with tokenized links and real-time Socket.io room management
+- Integrated Gemini API for inline grammar correction, with graceful fallback on API failure
+---
+
 ### 🌍 Natours – Tour Booking Platform  
 🔗 Live: https://natours.trustudios.in/
 
@@ -50,7 +61,7 @@ Currently working as an **Associate Developer at Novac Technology Solutions**, c
 
 | **Backend** | **Frontend** | **Tools** |
 |------------|--------------|-----------|
-| <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/> | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <br/> <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/> <br/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/> |
+| <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="Socket.io" /> </br> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> </br> <img src="https://img.shields.io/badge/Drizzle%20ORM-%23C5F74F.svg?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle ORM" /> | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <br/> <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /> </br> <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" /> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/> <br/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/> |
 
 </div>
 
