@@ -20,6 +20,27 @@ Currently working as an **Associate Developer at Novac Technology Solutions**, c
 
 ---
 
+## 📌 Starred Repositories
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="https://res.cloudinary.com/dmvbudba3/image/upload/v1780763437/Screenshot_2026-06-06_at_9.54.31_PM_nwfdqe.png" height="220" style="max-width: 100%;" />
+      <br />
+      <a href="https://github.com/thirumal-231/collaborative-kanban-fe">🔗 Tru Kanban - Realtime Collaborative Kanban</a>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="https://res.cloudinary.com/dmvbudba3/image/upload/v1768134254/Screenshot_2026-01-11_at_5.50.22_PM_jo5bfm.png" height="220" style="max-width: 100%;" />
+      <br />
+      <a href="https://github.com/thirumal-231/collaborative-kanban-be">🔗 Natours - Tour Booking Platform</a>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
 ## 💼 Experience
 
 ### 🏢 Novac Technology Solutions  
